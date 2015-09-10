@@ -25,5 +25,5 @@ var protobuf = require('pomelo-protobuf');
 Root.protobuf = protobuf;
 var Protocol = require('pomelo-protocol');
 Root.Protocol = Protocol;
-var pomelo = require('pomelo-jsclient-websocket');
+var pomelo = require('@zentertain/pomelo-jsclient-websocket');
 Root.pomelo = pomelo;

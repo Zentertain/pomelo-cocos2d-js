@@ -1,11 +1,11 @@
 {
-  "name": "pomelo-cocos2d-js",
-  "version": "0.1.4",
+  "name": "@zentertain/pomelo-cocos2d-js",
+  "version": "0.1.5",
   "description": "pomelo-cocos2d-js client",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NetEase/pomelo-cocos2d-js"
+    "url": "https://github.com/Zentertain/pomelo-cocos2d-js"
   },
   "keywords": [
     "pomelo",
@@ -15,7 +15,7 @@
   "dependencies": {
     "pomelo-protobuf": "0.4.0",
     "pomelo-protocol": "0.1.5",
-    "pomelo-jsclient-websocket": "0.1.1"
+    "@zentertain/pomelo-jsclient-websocket": "0.1.1"
   },
   "author": "fantasyni",
   "license": "MIT",
