@@ -1,6 +1,6 @@
 {
   "name": "@zentertain/pomelo-cocos2d-js",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "pomelo-cocos2d-js client",
   "main": "index.js",
   "repository": {
@@ -14,7 +14,7 @@
   ],
   "dependencies": {
     "pomelo-protobuf": "0.4.0",
-    "pomelo-protocol": "0.1.5",
+    "@zentertain/pomelo-protocol": "0.1.6",
     "@zentertain/pomelo-jsclient-websocket": "0.1.4"
   },
   "author": "fantasyni",
