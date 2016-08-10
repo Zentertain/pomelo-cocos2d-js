@@ -1,6 +1,6 @@
 {
   "name": "@zentertain/pomelo-cocos2d-js",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "description": "pomelo-cocos2d-js client",
   "main": "index.js",
   "repository": {
