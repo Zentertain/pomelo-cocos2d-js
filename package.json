@@ -1,6 +1,6 @@
 {
   "name": "@zentertain/pomelo-cocos2d-js",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "description": "pomelo-cocos2d-js client",
   "main": "index.js",
   "repository": {
@@ -15,7 +15,8 @@
   "dependencies": {
     "pomelo-protobuf": "0.4.0",
     "@zentertain/pomelo-protocol": "0.1.6",
-    "@zentertain/pomelo-jsclient-websocket": "0.1.5"
+    "@zentertain/pomelo-jsclient-websocket": "0.1.6",
+    "text-encoding-utf-8": "1.0.1"
   },
   "author": "fantasyni",
   "license": "MIT",
